@@ -18,4 +18,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.3.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DataFiles\" />
+    <Folder Include="BatchScripts\" />
+  </ItemGroup>
+
 </Project>
