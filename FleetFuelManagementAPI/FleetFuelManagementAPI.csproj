@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <Folder Include="DataFiles\" />
-    <Folder Include="BatchScripts\" />
   </ItemGroup>
 
 </Project>
